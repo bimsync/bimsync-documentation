@@ -1,5 +1,9 @@
 # Poser et répondre aux questions
 
+{% youtube %}
+https://youtu.be/g1OpHX9x68A
+{% endyoutube %}
+
 L’ensemble des questions d’études entre les intervenants passe par les « Sujets » de bimsync.
 
 ![](/05 - Poser et repondre aux questions/poser-et-repondre-aux-questions-images/poser-et-repondre-aux-questions-images-01.PNG)

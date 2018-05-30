@@ -1,5 +1,10 @@
 # Déposer et gérer les modèles
 
+{% youtube %}
+https://youtu.be/A3-y664LWoQ
+{% endyoutube %}
+
+
 Afin de pouvoir manipuler les modèles dans le module de visualisation, il est nécessaire de les charger dans l'espace modèle en format IFC.
 
 ## Déposer un nouveau modèle
