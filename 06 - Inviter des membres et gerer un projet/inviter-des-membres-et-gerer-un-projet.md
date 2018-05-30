@@ -1,5 +1,9 @@
 # Inviter des membres
 
+{% youtube %}
+https://youtu.be/gIel-qzFn7A
+{% endyoutube %}
+
 Bimsync facilite l’invitation de nouveaux contributeur, afin de permettre à l’ensemble de l’équipe projet d’accéder facilement aux informations contenues dans la plateforme.
 
 ![](/06 - Inviter des membres et gerer un projet/inviter-des-membres-et-gerer-un-projet-images/inviter-des-membres-et-gerer-un-projet-01.PNG)

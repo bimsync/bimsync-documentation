@@ -1,5 +1,9 @@
 # Manipuler les Modèles
 
+{% youtube %}
+https://youtu.be/Bpo2-6_L5t0
+{% endyoutube %}
+
 Bimsync permet une navigation fluide dans les modèles de votre projet grâce à des outils de visualisation numérique en 2D et 3D.
 
 ## Afficher un ou plusieurs modèles
@@ -55,6 +59,12 @@ En cliquant sur le rectangle gris \(3\) en bas à gauche de la vue, vous pouvez 
 Une fois le plan de coupe sélectionné, cliquer et maintenez appuyé le bouton droit de la souris pour le déplacer :
 
 ![](/02 - Manipuler des modeles/manipuler-les-modeles-images/manipuler-les-modeles-images-11.png)
+
+## Explorer les modèles
+
+{% youtube %}
+https://youtu.be/X8TQH5Rirx0
+{% endyoutube %}
 
 ---
 

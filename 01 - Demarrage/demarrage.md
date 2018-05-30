@@ -1,5 +1,9 @@
 # Démarrer avec Bimsync
 
+{% youtube %}
+https://youtu.be/Bi4z7BEy_BE
+{% endyoutube %}
+
 ## Invitation
 
 L’invitation à rejoindre la plateforme et le projet prend la forme d’un email. Une fois l’invitation envoyé par un responsable du projet, il suffit de cliquer sur le lien reçu  « Click here to accept the invitation » \(1\) pour être redirigé vers la plateforme.
@@ -17,7 +21,6 @@ Vous accédez alors à la liste des projets Bimsync :
 ![](/01 - Demarrage/demarrage-images/demarrage03.png)
 
 Cliquer sur l’un de ces projets pour l’ouvrir.
-
 
 ## Gestion de votre compte
 
@@ -45,7 +48,11 @@ Afin de recevoir des notifications par mail, il est nécessaire de faire vérifi
 
 Pour confirmer votre adresse email, après avoir cliqué sur \(1\) « Vérifier votre adresse e-mail », rendez-vous dans votre boite mail. Cliquez sur le lien « Click here to verify your email » dans le mail reçu. Une fois votre adresse mail confirmée, vous pouvez activer les notifications par mail via l’onglet « Mon compte ». Sélectionnez l’onglet « Notification » \(2\), puis « E-mail » \(3\), et activez les alertes e-mail \(4\) :
 
-### ![](/01 - Demarrage/demarrage-images/demarrage08.png)
+![](/01 - Demarrage/demarrage-images/demarrage08.png)
+
+{% youtube %}
+https://youtu.be/ptxPJZ821Ds
+{% endyoutube %}
 
 ---
 
