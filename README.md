@@ -4,7 +4,7 @@ Cet article permet une première prise en main de la plateforme Bimsync.
 
 Il vous permettra notamment d’apprendre à accéder, vous connecter et créer votre compte Bimsync, ainsi que de naviguer les modèles et gérer le dépôt des fichiers et des maquettes.
 
-![](/01 - Demarrage/demarrage-images/demarrage03.png)
+![]({{book.baseurl}}/01 - Demarrage/demarrage-images/demarrage03.png)
 
 ## Quelques raccourcis pour débuter :
 
