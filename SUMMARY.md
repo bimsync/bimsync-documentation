@@ -7,3 +7,7 @@
   * [Déposer et gérer des documents](/04-Deposer_et_gerer_des_documents/deposer-et-gerer-des-documents.md)
   * [Poser et répondre aux questions](/05-Poser_et_repondre_aux_questions/poser-et-repondre-aux-questions.md)
   * [Inviter des membres et gérer un projet](/06-Inviter_des_membres_et_gerer_un_projet/inviter-des-membres-et-gerer-un-projet.md)
+  * [Echanger en BCF](/07-Echanger_en_BCF/echanger-en-bcf.md)
+    * [BCF Revit](/07-Echanger_en_BCF/echanger-en-bcf-revit.md)
+    * [BCF ArchiCAD](/07-Echanger_en_BCF/echanger-en-bcf-archicad.md)
+    {# * [BCF Allplan](/07-Echanger_en_BCF/echanger-en-bcf-allplan.md) #}
